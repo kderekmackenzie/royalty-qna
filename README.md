@@ -45,7 +45,7 @@ Ask precise, legal-style questions about mining royalty contracts using `GPT-4o`
 ---
 
 ## 📁 Directory Structure
-
+|------------------------------------------|
 | royalty_qna.ipynb # Colab-ready notebook |
 | README.md # This file |
 | example_contract.pdf # (Optional sample contract) |
